@@ -1,0 +1,19 @@
+{
+  "name": "2.png",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FyrscxMJMuJPFJ9skuqStM1GmWUjB2n72ph5vmKgnP16",
+        "share": 100
+      }
+    ]
+  }
+}
